@@ -12,6 +12,7 @@
 - We were able to create a folder using Windows Prompt and NPM to create files to support the web server.
 - We also learned how to properly code a web server using the JS language
 - We learned how to run the server using run & debug.
+- We also learned how to utilize query perameters in routes to effect outputs. 
 - Lastly, we were able to load up the page on our browser using the correct route
 
 ### Outcome pics: 
